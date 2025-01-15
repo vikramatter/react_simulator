@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_simulator/static/css/main.4f5ceecd.css",
+    "main.js": "/react_simulator/static/js/main.09280f87.js",
+    "index.html": "/react_simulator/index.html",
+    "main.4f5ceecd.css.map": "/react_simulator/static/css/main.4f5ceecd.css.map",
+    "main.09280f87.js.map": "/react_simulator/static/js/main.09280f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f5ceecd.css",
+    "static/js/main.09280f87.js"
+  ]
+}
